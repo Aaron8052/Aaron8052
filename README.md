@@ -1,11 +1,17 @@
-# Aaron8052
-![](https://user-images.githubusercontent.com/68401855/202117370-d939e580-1254-4a02-a464-72bd8010341d.png)
+# Hi there 👋
 
-[博客](https://fengyansblog.blogspot.com/)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Aaron8052)
 
-[哔哩哔哩](https://space.bilibili.com/187016314)
+- 💻 C#, Java, Objective-C
+- [📝 Blog](https://fengyansblog.blogspot.com/)
 
-[Discord 服务器（DL社区版）](https://discord.gg/9xDYMDaxDy)
+![GitHub Data](https://github-readme-stats.vercel.app/api?username=Aaron8052)
+
+## Social
+
+[Bilibili](https://space.bilibili.com/187016314)
+
+[Discord Server (For my game project)](https://discord.gg/9xDYMDaxDy)
 
 <!--
 **Aaron8052/Aaron8052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
