@@ -1,4 +1,11 @@
-### Hi there 👋
+# Aaron8052
+![](https://user-images.githubusercontent.com/68401855/202117370-d939e580-1254-4a02-a464-72bd8010341d.png)
+
+[博客](https://fengyansblog.blogspot.com/)
+
+[哔哩哔哩](https://space.bilibili.com/187016314)
+
+[Discord 服务器（DL社区版）](https://discord.gg/9xDYMDaxDy)
 
 <!--
 **Aaron8052/Aaron8052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
