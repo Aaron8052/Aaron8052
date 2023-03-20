@@ -11,9 +11,9 @@
 
 ## 社交媒体
 
-[Bilibili](https://space.bilibili.com/187016314)
+[哔哩哔哩](https://space.bilibili.com/187016314)
 
-[Discord 服务器 (For my game project)](https://discord.gg/9xDYMDaxDy)
+[Discord 服务器 (本人游戏项目)](https://discord.gg/9xDYMDaxDy)
 
 <!--
 **Aaron8052/Aaron8052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
