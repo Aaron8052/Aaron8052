@@ -5,7 +5,7 @@
 - 💻 C#, Java, ShaderLab, Objective-C
 - [📝 Blogger博客（不常用）](https://fengyansblog.blogspot.com/)
 - [📝 Gist博客（常用）](https://gist.github.com/Aaron8052)
-- [💴 爱发电赞助）](https://afdian.net/a/fengyanDL)
+- [💴 爱发电赞助](https://afdian.net/a/fengyanDL)
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Aaron8052)
 
