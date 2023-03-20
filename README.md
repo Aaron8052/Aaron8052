@@ -5,14 +5,15 @@
 - 💻 C#, Java, ShaderLab, Objective-C
 - [📝 Blogger博客（不常用）](https://fengyansblog.blogspot.com/)
 - [📝 Gist博客（常用）](https://gist.github.com/Aaron8052)
+- [💴 爱发电赞助）](https://afdian.net/a/fengyanDL)
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Aaron8052)
 
-## Social
+## 社交媒体
 
 [Bilibili](https://space.bilibili.com/187016314)
 
-[Discord Server (For my game project)](https://discord.gg/9xDYMDaxDy)
+[Discord 服务器 (For my game project)](https://discord.gg/9xDYMDaxDy)
 
 <!--
 **Aaron8052/Aaron8052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
