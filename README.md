@@ -18,7 +18,7 @@
 ## 支持
 - [💴 爱发电赞助](https://afdian.net/a/fengyanDL)
 
-![afdian-枫炎](https://user-images.githubusercontent.com/68401855/226249023-342ebb80-af81-4bf7-a8ba-64bf70cb049d.png)
+<iframe src="https://afdian.net/leaflet?slug=fengyanDL" width="640" scrolling="no" height="200" frameborder="0"></iframe>
 
 
 
