@@ -1,10 +1,6 @@
 # Hi there 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FAaron8052&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Aaron8052)
-
 - 💻 C#, Java, ShaderLab, Objective-C, C++
-- [📝 Blogger博客（不常用）](https://fengyansblog.blogspot.com/)
-- [📝 Gist博客（常用）](https://gist.github.com/Aaron8052)
 
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Aaron8052)
