@@ -17,7 +17,7 @@
 
 
 ## 支持
-- [💴 爱发电赞助](https://afdian.net/a/fengyanDL)
+- [💴 爱发电赞助](https://afdian.com/a/fengyanDL)
 
 
 
