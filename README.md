@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 💻 C#, Java, ShaderLab, Objective-C, C++
+- 💻 C#, Java, ShaderLab, HLSL, Objective-C, C++
 
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Aaron8052)
