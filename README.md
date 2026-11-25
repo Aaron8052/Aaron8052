@@ -28,7 +28,8 @@ Student at Queens College
 - [GitHub Sponsor](https://github.com/sponsors/Aaron8052)
 - [💴 爱发电赞助](https://afdian.com/a/fengyanDL)
 
-
+## Email
+`molantsing@mail.somnartis.com`
 
 <!--
 **Aaron8052/Aaron8052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
